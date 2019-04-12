@@ -12,3 +12,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+.fas {
+  cursor: pointer;
+}
+
+input {
+  box-shadow: none !important;
+  padding: 1.5rem 1rem !important;
+}
+
+input:focus {
+  border-color: #138496 !important;
+}
